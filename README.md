@@ -3,14 +3,13 @@
 
 ---
 
-- 👨‍💻 I love solving real-world problems through code  
-- 📚 Currently learning **Data Structures & Algorithms (DSA)**  
-- 🌐 Exploring **Full Stack Web Development** and **Open Source**  
-- 🤝 Open to collaborating on impactful, community-driven projects  
-- 📫 Reach me at: **[aj12102003@gmail.com](mailto:aj12102003@gmail.com)**  
-- 😄 Pronouns: **He/Him**  
+- 💡 Passionate about transforming ideas into scalable, user-centric solutions  
+- 🧠 Sharpening my skills in **Data Structures & Algorithms (DSA)**  
+- ⚙️ Building projects with **MERN + Next.js** and exploring **Open Source**  
+- 🤝 Love collaborating on projects that make a real impact  
+- 💌 Reach out anytime: **[aj12102003@gmail.com](mailto:aj12102003@gmail.com)**  
+- 💬 Motto: *Code. Learn. Build. Repeat.*  
 - ⚡ Fun fact: *Every bug is just a riddle with extra steps 🧩*
-
 ---
 
 ## 🧠 Tech Stack
