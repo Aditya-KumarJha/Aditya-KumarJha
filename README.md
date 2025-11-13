@@ -9,7 +9,7 @@
 - 🤝 Love collaborating on projects that make a real impact  
 - 💌 Reach out anytime: **[aj12102003@gmail.com](mailto:aj12102003@gmail.com)**  
 - 💬 Motto: *Code. Learn. Build. Repeat.*  
-- ⚡ Fun fact: *Every bug is just a riddle with extra steps 🧩*
+- ⚡ Fun fact: *Every bug is just a riddle with extra steps 🧩.*
 ---
 
 ## 🧠 Tech Stack
