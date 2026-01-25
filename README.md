@@ -100,6 +100,8 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aditya-KumarJha&theme=tokyo-night&hide_border=true" />
 </p>
 
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Aditya-KumarJha&show_icons=true&theme=tokyonight&hide_border=true" height="170"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-KumarJha&layout=compact&theme=tokyonight&hide_border=true" height="170"/> </p> <p align="center"> <!-- Automatically shows BOTH current streak & longest streak --> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aditya-KumarJha&theme=tokyonight&hide_border=true"/> </p>
+
 ---
 
 ## 🏆 Achievements & Highlights
